@@ -1,0 +1,30 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: arial;
+	text-align: center;
+}
+
+form {
+	padding: 50px 20px;
+
+}
+
+
+input {
+	background-color: #F8F8FF;
+	width: calc(90% - 20px);
+	padding: 30px;
+	margin: auto;
+	margin-top: 12px;
+	font-size: 16px
+}
+
+input[type='submit']{
+	background-color: #48e;
+	color: #fff;
+	width: calc(95% - 20px);
+	margin: auto;
+	margin-top: 22px;
+	border: none;
+}
